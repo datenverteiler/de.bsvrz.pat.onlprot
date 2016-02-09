@@ -1,4 +1,4 @@
-Online-Protokollierer [![Build Status](https://travis-ci.org/datenverteiler/de.bsvrz.pat.onlprot.svg?branch=master)](https://travis-ci.org/datenverteiler/de.bsvrz.pat.onlprot)
+Online-Protokollierer [![Build Status](https://travis-ci.org/datenverteiler/de.bsvrz.pat.onlprot.svg?branch=develop)](https://travis-ci.org/datenverteiler/de.bsvrz.pat.onlprot)
 =====================
 
 
